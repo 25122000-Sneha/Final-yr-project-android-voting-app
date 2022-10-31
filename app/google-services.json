@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211751715055",
+    "project_id": "face-detection-voting-app",
+    "storage_bucket": "face-detection-voting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211751715055:android:d11baa78fcc49aa4cd9b1a",
+        "android_client_info": {
+          "package_name": "com.example.test_application1_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211751715055-cp4m6d6uep8e4mbl4qols17d5tcjmi4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpsRLw9-lWRxwKLbbeTj5X_Aj21s1j_OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211751715055-cp4m6d6uep8e4mbl4qols17d5tcjmi4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
